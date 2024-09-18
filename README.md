@@ -3,7 +3,7 @@
 
 
 ## Education 
--BBA Finance | Nagpur Universit (_june 2024_)	
+-BBA Finance | Nagpur University (_june 2024_)	
 
 ## Projects 
 ### Sales Data Analysis - Awesome Chocolates
