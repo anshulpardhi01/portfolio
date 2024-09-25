@@ -1,5 +1,5 @@
 # Data Analyst 
-#### Technical Skills: PowerBI, Excel, SQL, Python
+#### Technical Skills: PowerBI, Excel, SQL
 
 
 ## Education 
