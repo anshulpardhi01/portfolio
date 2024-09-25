@@ -12,7 +12,7 @@ Analyzed the sales performance of Awesome Chocolates across different geographie
 ### Zomato Sales - Power BI Dashboard
 This project involves creating a Power BI dashboard to analyze Zomato's sales data, focusing on the quantity of orders categorized as veg, non-veg, and others, along with identifying the cities with the highest sales.
 
-### Call Center Dashboard 
+### Call Center Dashboard - Microsoft Excel
 Developed an interactive and insightful dashboard in Excel, analyzing call center operations for improved decision-making.
 
 ## Skils:
